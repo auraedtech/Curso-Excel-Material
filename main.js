@@ -11,7 +11,7 @@ function muestra_oculta(id){
 }
 
 //Cambio de página
-let codigo = "SamsExc-1";
+let codigo = "SamsExc1";
 
 function code(){
     respuesta =document.getElementById("answer").value;
