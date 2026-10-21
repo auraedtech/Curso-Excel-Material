@@ -6,7 +6,7 @@ html, body{
     color: #009245;
     height: 100%;
 	margin: 0;
-    background-image: url("./images/portada (1).png");
+    background-image: url("./img/portada (1).png");
     align-items: center;
 }
 .login_div, .ia_div{
